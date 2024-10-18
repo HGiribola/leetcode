@@ -1,3 +1,6 @@
+### funçao que soma 2 numeros diferentes, mas que tem um limite de 0 - 1000.               ###
+### enquanto não for satisfeito o critério ros numeros 1 e 2, o código continua rodando    ###
+
 def soma(a, b):
     conta = a + b
     answ = print(f"The result is: {conta}")
